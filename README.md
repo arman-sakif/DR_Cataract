@@ -42,6 +42,13 @@ We evaluated three **pretrained CNNs** on the dataset:
 
 ## Deployment
 We plan to **deploy** this model as a **web application**, allowing easy access for clinicians and healthcare providers.
+For now we have a Live Demo.
+🚀 Try our model in action on **Hugging Face Spaces**:  
+
+🔗 **[Eye Disease Detection Web App](https://huggingface.co/spaces/RushiShah19/eye-disease)**  
+
+This web application allows users to upload retinal fundus images and receive real-time predictions for **Diabetic Retinopathy and Cataracts**.
+
 
 ## Future Work
 - **Federated Learning** for better generalization across diverse populations.  
